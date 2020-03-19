@@ -1,6 +1,6 @@
 # axios从入门到源码分析 
 
-## 1. 前后台交互的基本过程
+## 1. 前后台交互的基本过程hhhhhhhhhh
     1. 前后应用从浏览器端向服务器发送HTTP请求(请求报文)
     2. 后台服务器接收到请求后, 调度服务器应用处理请求, 向浏览器端返回HTTP响应(响应报文)
     3. 浏览器端接收到响应, 解析显示响应体/调用监视回调
@@ -11,9 +11,6 @@
     3. 请求体
 
 ## 3. HTTP响应报文
-    1. 响应行: 响应状态码/对应的文本
-    2. 多个响应头: 如 Content-Type / Set-Cookie 头
-    3. 响应体
 
 ## 4. post请求体文本参数格式
     1. Content-Type: application/x-www-form-urlencoded;charset=utf-8
